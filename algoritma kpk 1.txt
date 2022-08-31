@@ -1,0 +1,20 @@
+Algoritma :  
+
+While n = 0 do
+
+r ← m mod n
+
+m ← n
+
+n ← r
+
+return m
+
+mencari kpk dari 3 dan 4 
+
+Algoritma nya 
+
+step 1 Jika nilai n 
+
+
+
